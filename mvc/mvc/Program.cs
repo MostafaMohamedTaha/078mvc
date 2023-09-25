@@ -1,15 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Ignore Spelling: mvc
 
 namespace mvc
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            #region mvc
+
+            #endregion
+
         }
+        #region mvc
+
+        #endregion
     }
 }
